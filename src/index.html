@@ -5,9 +5,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>FrontEndMentorComponents</title>
+    <link rel="stylesheet" href="style/style.css" />
   </head>
   <body>
-    <h1>hola como estan</h1>
-    <p>estoy aun sin git add</p>
+    <header class="header">
+      <div class="header_left">
+        <div class="header_title">My balance</div>
+        <div class="header_balance">$921.48</div>
+      </div>
+      <div class="header_right">
+        <div class="header_svg_img_one"></div>
+        <div class="header_svg_img_two"></div>
+      </div>
+    </header>
+    <main class="container">
+      <div class="cntr_title">Spending - Last 7 days</div>
+      <div class="cntr_canvas">
+        <canvas id="myChartJs" width="335" height="335"></canvas>
+      </div>
+    </main>
+    mon tue wed thu fri sat sun Total this month $478.33 +2.4% from last month
+    <div class="attribution">Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="#">Jhoseph Poma</a>.</div>
+    <script src="../node_modules/chart.js/dist/chart.js"></script>
+    <script src="../src/js/app.js" type="module"></script>
   </body>
 </html>
