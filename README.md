@@ -11,10 +11,8 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -34,8 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/rtzboy/frontEndMentor01.git)
 
 ## My process
 
@@ -62,12 +59,6 @@ const amountDay = result.map(({ amount }) => amount);
 const totalAmount = amountDay.reduce((acum, num) => acum + num, 0);
 ```
 
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Chart.js](https://www.chartjs.org/) - This helped me write chart bar quickly. Useful resource i liked so much.
@@ -75,10 +66,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- Facebook - [Add your name here](https://www.facebook.com/joseph.22.12/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rtzboy)
