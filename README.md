@@ -66,5 +66,5 @@ const totalAmount = amountDay.reduce((acum, num) => acum + num, 0);
 
 ## Author
 
-- Facebook - [Add your name here](https://www.facebook.com/joseph.22.12/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rtzboy)
+- Facebook - [JhosephPoma](https://www.facebook.com/joseph.22.12/)
+- Frontend Mentor - [@rtzboy](https://www.frontendmentor.io/profile/rtzboy)
