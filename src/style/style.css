@@ -90,7 +90,7 @@ p {
 
 /* main style */
 .container {
-  max-width: 355px;
+  width: 355px;
   background-color: var(--color-very-pale-orange);
   margin-left: auto;
   margin-right: auto;
